@@ -2,9 +2,9 @@
 Welcome to the classic Tic-Tac-Toe game, designed with a modern and interactive interface. Built using JavaScript, HTML, and CSS, this project is perfect for showcasing your skills in web development and delivering a seamless gaming experience.
 
 
-Here's a professional and engaging description for your **Tic-Tac-Toe app**:
+## **Image**
+![TicTacToe](https://github.com/user-attachments/assets/eaeac31b-e4fc-49c9-8c41-cc71aa6bccd9)
 
----
 
 ### **Tic-Tac-Toe Game Application**
 
@@ -41,14 +41,6 @@ Welcome to the classic Tic-Tac-Toe game, designed with a modern and interactive 
 - **HTML:** For creating the structure of the game board and layout.
 - **CSS:** For styling the board, buttons, and adding animations.
 - **JavaScript:** To implement the game logic, user interactions, and DOM manipulation.
-
----
-
-#### **Additional Enhancements:**
-
-- **Hover Effects:** Visual cues for player actions.
-- **AI Mode (Optional):** Add a single-player mode where users can play against an intelligent AI opponent.
-- **Sound Effects:** Incorporate subtle sound effects for clicks, wins, and draws to enhance the experience.
 
 ---
 
