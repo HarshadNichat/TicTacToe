@@ -1,5 +1,5 @@
 # TicTacToe
-Welcome to the classic Tic-Tac-Toe game, designed with a modern and interactive interface. Built using JavaScript, HTML, and CSS, this project is perfect for showcasing your skills in web development and delivering a seamless gaming experience.
+Welcome to the classic Tic-Tac-Toe game, designed with a modern and interactive interface. Built using JavaScript, HTML, and CSS, this project is perfect for showcasing My skills in web development and delivering a seamless gaming experience.
 
 
 ## **Image**
@@ -8,7 +8,7 @@ Welcome to the classic Tic-Tac-Toe game, designed with a modern and interactive 
 
 ### **Tic-Tac-Toe Game Application**
 
-Welcome to the classic Tic-Tac-Toe game, designed with a modern and interactive interface. Built using **JavaScript, HTML, and CSS**, this project is perfect for showcasing your skills in web development and delivering a seamless gaming experience.
+Welcome to the classic Tic-Tac-Toe game, designed with a modern and interactive interface. Built using **JavaScript, HTML, and CSS**, this project is perfect for showcasing My skills in web development and delivering a seamless gaming experience.
 
 ---
 
